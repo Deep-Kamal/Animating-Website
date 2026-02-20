@@ -1,5 +1,5 @@
 
-# Animating Website
+# AnimateX - Smooth Web Animation Interface
 
 Welcome to the Animating Website project!
 
