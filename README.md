@@ -6,3 +6,4 @@ This is a modern, responsive web project that showcases stunning CSS and JavaScr
 
 ![image alt]![Screenshot 2025-07-02 175955](https://github.com/user-attachments/assets/035c9413-045d-4099-95ff-ca0eee63a161)
 
+  
